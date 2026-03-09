@@ -1,1 +1,5 @@
 .DS_Store
+DIN_To_VGA/fp-info-cache
+*.kicad_prl
+/Internal_8KB_RAM/Kicad/RevB/Alice_Internal_8KB-backups
+/DIN_To_VGA/Alice_DIN-To-VGA-backups
